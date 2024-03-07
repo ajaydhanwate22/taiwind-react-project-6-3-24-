@@ -6,7 +6,7 @@ export default function Industry() {
         <>
             <div className="container">
                 <div className="row " >
-                    <div className="col-6  ">
+                    <div className="col-6">
                         <h1 className='text-fuchsia-600 text-7xl font-bold py-3'>Industry Standard Formatting</h1>
                         <p className='text-white text-2xl mt-14'>Arc Studio automatically formats your script according to <br /> the Hollywood industry standard. You stay focused with  <br /> intuitive shortcuts and a clean visual design, <br /> which removes all distractions. No more clunky apps from the  <br />90s – Arc Studio is a breath of fresh air for the <br /> screenwriting world.</p>
                         <div className="flex mt-10  text-white rounded-2xl h-60 w-96">
@@ -20,7 +20,7 @@ export default function Industry() {
                         </div>
                     </div>
                     <div className="col-6">
-                        <img className=' ml-32 mt-20 h-96 rounded-xl' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsIkSRrBx3FlhFaB3yfNY4ZiQkmD8_YM0qWA&usqp=CAU" alt="" />
+                        <img className='justify-center mt-20 h-96 rounded-xl' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsIkSRrBx3FlhFaB3yfNY4ZiQkmD8_YM0qWA&usqp=CAU" alt="" />
                     </div>
                 </div>
             </div>

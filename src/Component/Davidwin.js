@@ -17,7 +17,7 @@ export default function Davidwin() {
          
                 <p className='text-2xl font-medium mt-4'>For decades I've been searching for a seamless <br />screenwriting app and and everything has come up way <br /> short – until Arc Studio. Writing and collaborating is <br /> easier than ever and it gets better every week. <br />Well done!</p>
                 <h1 className='mt-6 text-4xl '>David Wain</h1>
-                <h5 className='font-serif'>Writer/Director Role Models, Wet Hot American Summer</h5>
+                <h5 className='font-serif mt-4'>Writer/Director Role Models, Wet Hot American Summer</h5>
                 </div>
             </div>
         </div>

@@ -1,4 +1,22 @@
-body{
-  background:#4d1158;
-  ;
+body {
+  background: #4d1158;
 }
+
+details {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+summary {
+  padding: 10px;
+  cursor: pointer;
+  font-weight: bold;
+  background-color: #f0f0f0;
+}
+
+div {
+  padding: 10px;
+}
+
+
