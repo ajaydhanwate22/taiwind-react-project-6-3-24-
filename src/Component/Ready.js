@@ -1,5 +1,4 @@
 import React from 'react'
-import Footer from './Footer'
 
 export default function Ready() {
     return (
@@ -21,7 +20,6 @@ export default function Ready() {
                     </div>
                 </div>
             </div>
-            <Footer/>
         </>
     )
 }
